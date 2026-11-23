@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![R Version](https://img.shields.io/badge/R-4.5.1%2B-blue?style=for-the-badge&logo=r)
+![R Version](https://img.shields.io/badge/R-4.6.1%2B-blue?style=for-the-badge&logo=r)
 ![License](https://img.shields.io/badge/Licencia-CC%20BY-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Estado-Producci%C3%B3n%20Auditada-success?style=for-the-badge)
 ![Reproducibilidad](https://img.shields.io/badge/Reproducibilidad-renv%20%7C%20Seed-orange?style=for-the-badge)
@@ -103,7 +103,7 @@ JE5_seleccion_algoritmo/
 
 ## 3. Requisitos Tecnicos
 
-* **R** 4.5.1 o superior y **renv** 1.1.5+.
+* **R** 4.6.1 o superior y **renv** 1.1.5+.
 * Dependencias declaradas en `renv.lock` y restauradas con `renv::restore()`.
 
 Librerias principales: `sqldf`, `expss`, `dplyr`, `tidyr`, `readr`, `readxl`, `eeptools`, `openxlsx`, `descriptr`.
